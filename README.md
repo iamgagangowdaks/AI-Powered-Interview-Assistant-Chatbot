@@ -102,7 +102,8 @@ An AI-driven application designed to help users prepare for interviews by genera
 ## Example Screenshot  
 ![image](https://github.com/user-attachments/assets/d9893331-aa8f-4928-8023-de6b8245f99c)
 
-![image](https://github.com/user-attachments/assets/ce2368ff-cf66-4986-9ec8-d77b5745e3e0)
+![Uploading image.png…]()
+
 
 
 ---
