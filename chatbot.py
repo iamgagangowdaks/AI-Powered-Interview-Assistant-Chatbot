@@ -7,7 +7,7 @@ import google.generativeai as genai
 load_dotenv()
 
 # Configure Gemini API
-api_key = "AIzaSyCn7P9SoW4LkhAn4aFJlIttzu9WXkdCuzY"  # Load API key from the .env file
+api_key = " # Load your API key here"  
 if not api_key:
     st.error("API key not found. Please set the GENAI_API_KEY environment variable.")
     st.stop()
