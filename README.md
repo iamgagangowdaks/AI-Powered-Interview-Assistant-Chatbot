@@ -1,4 +1,4 @@
-# AI-Powered-Interview-Assistant-Chatbot
+![image](https://github.com/user-attachments/assets/dbbd857b-27a2-48e0-a0f0-45917bd5dd15)# AI-Powered-Interview-Assistant-Chatbot
 "An AI-driven application built with Streamlit, leveraging the Gemini API to assist users in preparing for interviews. Supports technical, aptitude, and HR interview question generation with dynamic user input and seamless response generation."
 # AI-Powered Interview Assistant with Streamlit and Gemini API  
 
@@ -100,7 +100,8 @@ An AI-driven application designed to help users prepare for interviews by genera
 ---
 
 ## Example Screenshot  
-_Add screenshots of the application interface (if applicable)._  
+![image](https://github.com/user-attachments/assets/ce2368ff-cf66-4986-9ec8-d77b5745e3e0)
+
 
 ---
 
